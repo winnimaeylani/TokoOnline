@@ -16,7 +16,7 @@ include 'koneksi.php';
 <!-- konten -->
 <section class="konten">
 	<div class="container">
-		<h1>Produk Terbaru</h1>
+		<h1>Produk Kami</h1>
 		
 		<div class="row">
 
